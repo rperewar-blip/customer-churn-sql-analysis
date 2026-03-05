@@ -128,30 +128,7 @@ Based on the analysis, the following strategies could reduce churn:
 
 ---
 
-# Project Structure
-
-customer-churn-sql-analysis
-│
-├── data
-│   └── telco_churn.csv
-│
-├── sql
-│   └── churn_analysis.sql
-│
-├── images
-│   ├── kpi_summary.png
-│   ├── churn_by_contract.png
-│   ├── churn_by_payment.png
-│   └── tenure_cohort.png
-│
-├── report
-│   └── churn_analysis_report.pdf
-│
-└── README.md
-
----
-
-# Author
+AUTHOR
 
 Rishabh Perewar
 Business Analytics | Data Analytics | SQL | Python | Tableau
